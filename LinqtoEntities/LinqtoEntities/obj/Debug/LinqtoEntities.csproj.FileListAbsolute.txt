@@ -1,0 +1,2 @@
+c:\users\best\documents\visual studio 2015\Projects\LinqtoEntities\LinqtoEntities\bin\Debug\LinqtoEntities.exe.config
+c:\users\best\documents\visual studio 2015\Projects\LinqtoEntities\LinqtoEntities\obj\Debug\LinqtoEntities.csprojResolveAssemblyReference.cache
