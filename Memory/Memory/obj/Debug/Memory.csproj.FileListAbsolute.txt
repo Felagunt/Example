@@ -1,0 +1,6 @@
+c:\users\best\documents\visual studio 2015\Projects\Memory\Memory\bin\Debug\Memory.exe.config
+c:\users\best\documents\visual studio 2015\Projects\Memory\Memory\bin\Debug\Memory.exe
+c:\users\best\documents\visual studio 2015\Projects\Memory\Memory\bin\Debug\Memory.pdb
+c:\users\best\documents\visual studio 2015\Projects\Memory\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+c:\users\best\documents\visual studio 2015\Projects\Memory\Memory\obj\Debug\Memory.exe
+c:\users\best\documents\visual studio 2015\Projects\Memory\Memory\obj\Debug\Memory.pdb
