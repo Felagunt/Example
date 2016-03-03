@@ -1,0 +1,14 @@
+c:\users\best\documents\visual studio 2015\Projects\EFMtoM\EFMtoM\bin\Debug\EFMtoM.exe.config
+c:\users\best\documents\visual studio 2015\Projects\EFMtoM\EFMtoM\bin\Debug\EFMtoM.exe
+c:\users\best\documents\visual studio 2015\Projects\EFMtoM\EFMtoM\bin\Debug\EFMtoM.pdb
+c:\users\best\documents\visual studio 2015\Projects\EFMtoM\EFMtoM\bin\Debug\EntityFramework.dll
+c:\users\best\documents\visual studio 2015\Projects\EFMtoM\EFMtoM\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\best\documents\visual studio 2015\Projects\EFMtoM\EFMtoM\bin\Debug\EntityFramework.xml
+c:\users\best\documents\visual studio 2015\Projects\EFMtoM\EFMtoM\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\best\documents\visual studio 2015\Projects\EFMtoM\EFMtoM\obj\Debug\EFMtoM.Form1.resources
+c:\users\best\documents\visual studio 2015\Projects\EFMtoM\EFMtoM\obj\Debug\EFMtoM.PlayerForm.resources
+c:\users\best\documents\visual studio 2015\Projects\EFMtoM\EFMtoM\obj\Debug\EFMtoM.Properties.Resources.resources
+c:\users\best\documents\visual studio 2015\Projects\EFMtoM\EFMtoM\obj\Debug\EFMtoM.TeamForm.resources
+c:\users\best\documents\visual studio 2015\Projects\EFMtoM\EFMtoM\obj\Debug\EFMtoM.csproj.GenerateResource.Cache
+c:\users\best\documents\visual studio 2015\Projects\EFMtoM\EFMtoM\obj\Debug\EFMtoM.exe
+c:\users\best\documents\visual studio 2015\Projects\EFMtoM\EFMtoM\obj\Debug\EFMtoM.pdb
