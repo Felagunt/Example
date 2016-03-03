@@ -1,0 +1,16 @@
+c:\users\best\documents\visual studio 2015\Projects\EFStoM\EFStoM\bin\Debug\EFStoM.exe.config
+c:\users\best\documents\visual studio 2015\Projects\EFStoM\EFStoM\bin\Debug\EFStoM.exe
+c:\users\best\documents\visual studio 2015\Projects\EFStoM\EFStoM\bin\Debug\EFStoM.pdb
+c:\users\best\documents\visual studio 2015\Projects\EFStoM\EFStoM\bin\Debug\EntityFramework.dll
+c:\users\best\documents\visual studio 2015\Projects\EFStoM\EFStoM\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\best\documents\visual studio 2015\Projects\EFStoM\EFStoM\bin\Debug\EntityFramework.xml
+c:\users\best\documents\visual studio 2015\Projects\EFStoM\EFStoM\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\best\documents\visual studio 2015\Projects\EFStoM\EFStoM\obj\Debug\EFStoM.csprojResolveAssemblyReference.cache
+c:\users\best\documents\visual studio 2015\Projects\EFStoM\EFStoM\obj\Debug\EFStoM.AllTeams.resources
+c:\users\best\documents\visual studio 2015\Projects\EFStoM\EFStoM\obj\Debug\EFStoM.Form1.resources
+c:\users\best\documents\visual studio 2015\Projects\EFStoM\EFStoM\obj\Debug\EFStoM.PlayerForm.resources
+c:\users\best\documents\visual studio 2015\Projects\EFStoM\EFStoM\obj\Debug\EFStoM.Properties.Resources.resources
+c:\users\best\documents\visual studio 2015\Projects\EFStoM\EFStoM\obj\Debug\EFStoM.csproj.GenerateResource.Cache
+c:\users\best\documents\visual studio 2015\Projects\EFStoM\EFStoM\obj\Debug\EFStoM.exe
+c:\users\best\documents\visual studio 2015\Projects\EFStoM\EFStoM\obj\Debug\EFStoM.pdb
+c:\users\best\documents\visual studio 2015\Projects\EFStoM\EFStoM\obj\Debug\EFStoM.TeamForm.resources

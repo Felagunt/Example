@@ -1,0 +1,14 @@
+c:\users\best\documents\visual studio 2015\Projects\EFforms\EFforms\bin\Debug\EFforms.exe.config
+c:\users\best\documents\visual studio 2015\Projects\EFforms\EFforms\obj\Debug\EFforms.csprojResolveAssemblyReference.cache
+c:\users\best\documents\visual studio 2015\Projects\EFforms\EFforms\obj\Debug\EFforms.Form1.resources
+c:\users\best\documents\visual studio 2015\Projects\EFforms\EFforms\obj\Debug\EFforms.PlayerForm.resources
+c:\users\best\documents\visual studio 2015\Projects\EFforms\EFforms\obj\Debug\EFforms.Properties.Resources.resources
+c:\users\best\documents\visual studio 2015\Projects\EFforms\EFforms\obj\Debug\EFforms.csproj.GenerateResource.Cache
+c:\users\best\documents\visual studio 2015\Projects\EFforms\EFforms\bin\Debug\EFforms.exe
+c:\users\best\documents\visual studio 2015\Projects\EFforms\EFforms\bin\Debug\EFforms.pdb
+c:\users\best\documents\visual studio 2015\Projects\EFforms\EFforms\bin\Debug\EntityFramework.dll
+c:\users\best\documents\visual studio 2015\Projects\EFforms\EFforms\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\best\documents\visual studio 2015\Projects\EFforms\EFforms\bin\Debug\EntityFramework.xml
+c:\users\best\documents\visual studio 2015\Projects\EFforms\EFforms\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\best\documents\visual studio 2015\Projects\EFforms\EFforms\obj\Debug\EFforms.exe
+c:\users\best\documents\visual studio 2015\Projects\EFforms\EFforms\obj\Debug\EFforms.pdb
