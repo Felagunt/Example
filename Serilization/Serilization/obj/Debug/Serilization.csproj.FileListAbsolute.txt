@@ -1,0 +1,6 @@
+c:\users\best\documents\visual studio 2015\Projects\Serilization\Serilization\bin\Debug\Serilization.exe.config
+c:\users\best\documents\visual studio 2015\Projects\Serilization\Serilization\bin\Debug\Serilization.exe
+c:\users\best\documents\visual studio 2015\Projects\Serilization\Serilization\bin\Debug\Serilization.pdb
+c:\users\best\documents\visual studio 2015\Projects\Serilization\Serilization\obj\Debug\Serilization.csprojResolveAssemblyReference.cache
+c:\users\best\documents\visual studio 2015\Projects\Serilization\Serilization\obj\Debug\Serilization.exe
+c:\users\best\documents\visual studio 2015\Projects\Serilization\Serilization\obj\Debug\Serilization.pdb
