@@ -1,0 +1,1 @@
+c:\users\best\documents\visual studio 2015\Projects\StreamReaderAndWriter\StreamReaderAndWriter\bin\Debug\StreamReaderAndWriter.exe.config
